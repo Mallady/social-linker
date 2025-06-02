@@ -1,8 +1,12 @@
 - name: Twitch
+  label: twitch
   url: https://www.twitch.tv/mallady_
 - name: Youtube
+  label: youtube
   url: https://www.youtube.com/@mallady
 - name: Bluesky
+  label: bluesky
   url: https://bsky.app/profile/mallady.nl
 - name: Tiktok
+  label: tiktok
   url: https://www.tiktok.com/@mallady_
