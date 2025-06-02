@@ -1,5 +1,5 @@
 ---
 layout: redirect
-permalink: /outbound/bluesky/
+permalink: /outbound/bsky/
 redirect_to: https://bsky.app/profile/mallady.nl
 ---

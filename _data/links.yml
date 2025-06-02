@@ -5,7 +5,7 @@
   label: youtube
   url: https://www.youtube.com/@mallady
 - name: Bluesky
-  label: bluesky
+  label: bsky
   url: https://bsky.app/profile/mallady.nl
 - name: Github
   label: github
