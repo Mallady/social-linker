@@ -1,3 +1,8 @@
-<a href="{{ link.url }}" class="link" target="_blank" rel="noopener">
-  {{ link.name }}
-</a>
+- name: Twitch
+  url: https://www.twitch.tv/mallady_
+- name: Youtube
+  url: https://www.youtube.com/@mallady
+- name: Bluesky
+  url: https://bsky.app/profile/mallady.nl
+- name: Tiktok
+  url: https://www.tiktok.com/@mallady_
