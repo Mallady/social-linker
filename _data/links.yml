@@ -7,6 +7,9 @@
 - name: Bluesky
   label: bluesky
   url: https://bsky.app/profile/mallady.nl
+- name: Github
+  label: github
+  url: https://github.com/Mallady
 - name: Tiktok
   label: tiktok
   url: https://www.tiktok.com/@mallady_
