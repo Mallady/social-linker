@@ -2,9 +2,9 @@
   --main-color: #4B0082;
   --secondary-color: #000000;
   --highlight-color: #d69b1c;
-  --title-size: 2em;
+  --title-size: 3em;
   --link-size: 1.5em;
-  --description-size: 1em;
+  --description-size: 2em;
 }
 
 title {
@@ -38,7 +38,7 @@ body {
 
 .center {
     margin: auto;
-    width: 50%;
+    width: 75%;
     border: 4px solid var(--highlight-color);
     padding: 8px;
 }
