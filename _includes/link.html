@@ -1,3 +1,14 @@
 <a href="/outbound/{{ link.label | downcase }}" class="link">
-  {{ link.name }}
+  <div class="button-icon">
+    <img src="https://{{ site.url }}/media/icons/{{ link.icon }}.svg">
+  </div>
+  <div>
+    <span>
+      {{ link.name }}
+    </span>
+    <p>
+      {{ link.description }}
+    </p>
+  </div>
+  
 </a>

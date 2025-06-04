@@ -1,15 +1,29 @@
 - name: Twitch
+  icon: twitch
   label: twitch
+  description: Live content!
   url: https://www.twitch.tv/mallady_
+
 - name: Youtube
+  icon: youtube
   label: youtube
+  description: I post all my video's here
   url: https://www.youtube.com/@mallady
+
 - name: Bluesky
+  icon: bsky
   label: bsky
+  description: Where I post updates of various things
   url: https://bsky.app/profile/mallady.net
+
 - name: Github
+  icon: github
   label: github
+  description: Here are all my public repo's
   url: https://github.com/Mallady
+
 - name: Tiktok
+  icon: tiktok
   label: tiktok
+  description: Only short form content
   url: https://www.tiktok.com/@mallady_
