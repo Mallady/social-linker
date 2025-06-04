@@ -7,19 +7,19 @@
 - name: Youtube
   icon: youtube
   label: youtube
-  description: I post all my video's here
+  description: All my video's here
   url: https://www.youtube.com/@mallady
 
 - name: Bluesky
   icon: bsky
   label: bsky
-  description: Where I post updates of various things
+  description: Updates for various things
   url: https://bsky.app/profile/mallady.net
 
 - name: Github
   icon: github
   label: github
-  description: Here are all my public repo's
+  description: Find my public repo's
   url: https://github.com/Mallady
 
 - name: Tiktok
