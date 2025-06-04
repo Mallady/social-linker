@@ -1,3 +1,9 @@
+ :root {
+  --main-color: #4B0082;
+  --secondary-color: #000000;
+  --highlight-color: #d69b1c;
+}
+
 body { 
     font-family: sans-serif; 
     text-align: center; 
@@ -13,29 +19,29 @@ body {
     display: block; 
     text-decoration: none; 
     padding: 1em; 
-    background: #eee; 
+    background: var(--main-color); 
     border-radius: 8px; 
 }
 
 .link:hover { 
-    background: #ddd; 
+    background: var(--secondary-color); 
 }
 
 .center {
     margin: auto;
     width: 50%;
-    border: 3px solid green;
+    border: 3px solid var(--highlight-color);
     padding: 10px;
 }
 
 
 .outlined-text {
     font-size: 48px;
-    color: white;
+    color: var(--main-color);
     text-shadow: 
-        -1px -1px 0 black,
-            1px -1px 0 black,
-        -1px  1px 0 black,
-            1px  1px 0 black;
+        -1px -1px 0 var(--highlight-color),
+            1px -1px 0 var(--highlight-color),
+        -1px  1px 0 var(--highlight-color),
+            1px  1px 0 var(--highlight-color);
 }
     
