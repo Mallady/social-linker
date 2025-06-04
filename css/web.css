@@ -22,6 +22,7 @@ body {
 }
 
 .link { 
+    color: var(--highlight-color);
     font-size: var(--link-size);
     margin: 16px 0; 
     display: block; 
