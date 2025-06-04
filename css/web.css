@@ -1,19 +1,41 @@
 body { 
-      font-family: sans-serif; 
-      text-align: center; 
-      padding: 2em; 
-      background-image: url('https://mallady.net/media/spider_on.png');
-      background-repeat: no-repeat;
-      background-attachment: fixed;
-      background-size: 100% 100%;
-    }
-    .link { margin: 1em 0; display: block; text-decoration: none; padding: 1em; background: #eee; border-radius: 8px; }
-    .link:hover { background: #ddd; }
+    font-family: sans-serif; 
+    text-align: center; 
+    padding: 2em; 
+    background-image: url('https://mallady.net/media/spider_on.png');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+}
 
-div {}
-  .center {
-  margin: auto;
-  width: 50%;
-  border: 3px solid green;
-  padding: 10px;
-  }
+.link { 
+    margin: 1em 0; 
+    display: block; 
+    text-decoration: none; 
+    padding: 1em; 
+    background: #eee; 
+    border-radius: 8px; 
+}
+
+.link:hover { 
+    background: #ddd; 
+}
+
+.center {
+    margin: auto;
+    width: 50%;
+    border: 3px solid green;
+    padding: 10px;
+}
+
+
+.outlined-text {
+    font-size: 48px;
+    color: white;
+    text-shadow: 
+        -1px -1px 0 black,
+            1px -1px 0 black,
+        -1px  1px 0 black,
+            1px  1px 0 black;
+}
+    
