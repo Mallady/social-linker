@@ -15,6 +15,7 @@ body {
 }
 
 .link { 
+    font-size: 48px;
     margin: 1em 0; 
     display: block; 
     text-decoration: none; 
@@ -36,12 +37,11 @@ body {
 
 
 .outlined-text {
-    font-size: 48px;
     color: var(--main-color);
     text-shadow: 
         -1px -1px 0 var(--highlight-color),
-            1px -1px 0 var(--highlight-color),
+        1px -1px 0 var(--highlight-color),
         -1px  1px 0 var(--highlight-color),
-            1px  1px 0 var(--highlight-color);
+        1px  1px 0 var(--highlight-color);
 }
     
