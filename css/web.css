@@ -25,7 +25,8 @@ body {
 .main-wrapper * {box-sizing: border-box;}
 
 .main-wrapper {
-    
+    display: flex;
+    flex-direction: column;
 }
 
 .title-wrapper {
@@ -33,13 +34,13 @@ body {
 }
 
 .link-wrapper {
-
+    display: flex;
+    flex-direction: column;
 }
 
 .link { 
     color: var(--highlight-color);
     font-size: var(--link-size);
-    margin: 16px 0; 
     display: block; 
     text-decoration: none; 
     padding: 16px; 
