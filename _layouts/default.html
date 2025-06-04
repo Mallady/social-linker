@@ -7,10 +7,16 @@
   <link rel="stylesheet" href="css/web.css">
 </head>
 <body>
-  <h1 class="outlined-text">{{ site.title }}</h1>
-  <p class="outlined-text">{{ site.description }}</p>
-  <div class="center">
-    {{ content }}
+  <div class="main-wrapper center">
+    <div class="title-wrapper">
+      <h1 class="outlined-text">{{ site.title }}</h1>
+      <p class="outlined-text">{{ site.description }}</p>
+    </div>
+    <div class="link-wrapper outlined-div">
+      {{ content }}
+    </div>
   </div>
+  
+  
 </body>
 </html>
