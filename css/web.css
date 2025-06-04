@@ -8,6 +8,11 @@
   --description-size: 2em;
 }
 
+p {
+    margin: 0;
+    padding: 0;
+}
+
 h1 {
     font-size: var(--title-size);
 }
@@ -36,6 +41,7 @@ body {
 .link-wrapper {
     display: flex;
     flex-direction: column;
+    gap: 16px;
 }
 
 .link { 
