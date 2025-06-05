@@ -2,10 +2,10 @@
   --main-color: #4B0082;
   --secondary-color: #1a1a1a;
   --highlight-color: #ff9900;
-  --blur-color:#fbfbfb12;
+  --blur-color:#fbfbfb35;
   --title-size: 3em;
   --link-size: 1.2em;
-  --description-size: 0.6em;
+  --description-size: 0.7em;
 }
 
 p {
