@@ -160,4 +160,7 @@ body::before {
     -webkit-text-stroke-width: 1px;
     -webkit-text-stroke-color: var(--highlight-color);
 }
-    
+
+.filter-inverted{
+    filter: invert(90%);
+}
