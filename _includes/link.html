@@ -1,9 +1,11 @@
 <a href="/outbound/{{ link.label | downcase }}" class="link">
-  <div class="button-icon">
-    <img class="filter-inverted" src="https://{{ site.url }}/media/icons/{{ link.icon }}.svg">
-  </div>
-  <div>
-    <span>{{ link.name }}</span>
-    <p>{{ link.description }}</p>
+  <div class="button-link-container"></div>
+    <div class="button-icon">
+      <img class="filter-inverted" src="https://{{ site.url }}/media/icons/{{ link.icon }}.svg">
+    </div>
+    <div>
+      <span>{{ link.name }}</span>
+      <p>{{ link.description }}</p>
+    </div>
   </div>
 </a>
