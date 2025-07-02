@@ -27,3 +27,9 @@
   label: tiktok
   description: Only short form content
   url: https://www.tiktok.com/@mallady_
+
+- name: Discord
+  icon: discord
+  label: discord
+  description: Join my discord ^^
+  url: https://discord.gg/3McfrYWSDa
